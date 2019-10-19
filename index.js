@@ -16,7 +16,8 @@ function addToCart(item) {
 }
 
 function viewCart() {
-  if getCart = []
+  getCart()
+  if cart = []
   return "Your shopping cart is empty."// write your code here
 }
 
